@@ -1,1 +1,18 @@
-
+Nama Pack|Harga
+Paket upgrade ssd sata 120 gb|580000
+Paket upgrade ssd sata 240 gb|780000
+Paket upgrade ssd sata 480 gb|1150000
+Paket upgrade ssd sata 512 gb|1350000
+Paket upgrade ssd sata 1 TB|1600000
+Paket upgrade ssd sata 2 TB|2400000
+Paket upgrade ssd m2 128 GB|580000
+Paket upgrade ssd m2 256 gb|780000
+Paket upgrade ssd m2 512 gb|1350000
+Paket upgrade ssd m2 1 TB|1600000
+Paket upgrade ssd m2 2 TB|2400000
+Paket upgrade ssd m2 NVME 128 GB|630000
+Paket upgrade ssd m2 NVME 256 gb|850000
+Paket upgrade ssd m2 NVME 512 gb|1450000
+Paket upgrade ssd m2 NVME 1 TB|1800000
+Paket upgrade ssd m2 NVME 2 TB|2750000
+Caddy 50k|50000
