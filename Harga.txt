@@ -15,3 +15,6 @@ Voucher Vision+ Sport 30 Day|Rp 5.000|voc|GARANSI JIKA GAGAL REDEEM
 VPN Express 30 Day|Rp 7.000|exp|PRIVATE AKUN
 VPN HMA 1 Bulan|Rp 5.000|hma|PRIVATE AKUN, FULLGAR, LOGIN BY KODE
 Viu 6 Bulan|Rp 2.000|viu6b|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
+Netflix 1 Bulan| Rp 32.000|Netflix 1|Sharing 1P1U  Ultra HD , ALL DEVICE
+Netflix 2 Bulan| Rp 72.000|Netflix 2|Sharing 1P1U  Ultra HD , ALL DEVICE
+Netflix 3 Bulan| Rp 92.000|Netflix 3|Sharing 1P1U  Ultra HD , ALL DEVICE
