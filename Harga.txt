@@ -1,22 +1,102 @@
-Spotify 1 Bulan|2.000|spo1b|Bill Paypal, No Garansi, Dapat Email Akses
-Spotify 3 Bulan PayPal|2.500|spopp|Bill Paypal, No Garansi, Dapat Email Akses
-YouTube Premium 3 Bulan|14.000|yt3b|NO GARANSI, WAJIB GANTI PASSWORD
-Vidio Platinum 1 Bulan|22.000|vid1b|ALL DEVICE, PRIVATE AKUN, GARANSI BACKFREE
-Prime Video 1 Bulan|6.000|prime1b|PRIVATE AKUN, GARANSI BACKFREE, INCLUDE GMAIL AKSES
-Akun Payco Korea|500|payco|SUPPORT TRIAL APP GP, TIDAK INCLUDE METHOD
-Vision+ Sport Private 1 Bulan|15.000|vision|Private Akun, Garansi Backfree
-Viu 1 Bulan|500|viu1b|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
-Viu 12 Bulan|2.500|viu12b|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
-Spotify 2 Bulan|5.500|spo2b|Bill Gp, No Garansi
-VPN Express 30 Day|7.000|exp|PRIVATE AKUN
-Canva Owner 30 Day|4.000|cowner|No Garansi
-Alight Motion 1 Tahun|3.000|am|Private Akun, Dapet Email Akses, Garansi 6 Bulan
-Viu 2 Bulan|1.000|viu2b|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
-Viu 3 Bulan|1.500|viu3b|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
-VPN HMA 1 Bulan|5.000|hma|PRIVATE AKUN, FULLGAR, LOGIN BY KODE
-Viu 6 Bulan|2.000|viu6b|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
-Zoom 100 Peserta 14 Day|5.000|zoom|Private Akun, Full Garansi, Include Email Akses
-Spotify 1 Bulan Garansi|16.000|spo1bgar|Full Garansi, Reg Indonesia, Dapet Akses Email
-Apple Music Indplan 1 Bulan|7.000|appmus|Full Garansi, Reg Indonesia, Support Android Only
-RCTI+ Super App 1 Bulan|12.000|rcti|Private Akun, Garansi Backfree, Bisa Nonton Timnas
-DeepL Premium 1 Bulan|10.000|deepl|BACA SNK KOCAK
+Digital|Spotify 1 Bulan|2.000|sku1|Bill Paypal, No Garansi, Dapat Email Akses
+Digital|Spotify 1 Bulan Garansi|16.000|sku2|Full Garansi, Reg Indonesia, Dapet Akses Email
+Digital|Spotify 2 Bulan|5.500|sku3|Bill Gp, No Garansi
+Digital|Spotify 3 Bulan PayPal|2.500|sku4|Bill Paypal, No Garansi, Dapat Email Akses
+Digital|YouTube Premium 3 Bulan|14.000|sku5|NO GARANSI, WAJIB GANTI PASSWORD
+Digital|Vidio Platinum 1 Bulan|22.000|sku6|ALL DEVICE, PRIVATE AKUN, GARANSI BACKFREE
+Digital|Prime Video 1 Bulan|6.000|sku7|PRIVATE AKUN, GARANSI BACKFREE, INCLUDE GMAIL AKSES
+Digital|Akun Payco Korea|500|sku8|SUPPORT TRIAL APP GP, TIDAK INCLUDE METHOD
+Digital|Vision+ Sport Private 1 Bulan|15.000|sku9|Private Akun, Garansi Backfree
+Digital|Viu 1 Bulan|500|sku10|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
+Digital|Viu 12 Bulan|2.500|sku11|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
+Digital|VPN Express 30 Day|7.000|sku12|PRIVATE AKUN
+Digital|Canva Owner 30 Day|4.000|sku13|No Garansi
+Digital|Alight Motion 1 Tahun|3.000|sku14|Private Akun, Dapet Email Akses, Garansi 6 Bulan
+Digital|Viu 2 Bulan|1.000|sku15|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
+Digital|Viu 3 Bulan|1.500|sku16|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
+Digital|VPN HMA 1 Bulan|5.000|sku17|PRIVATE AKUN, FULLGAR, LOGIN BY KODE
+Digital|Viu 6 Bulan|2.000|sku18|FULLGAR BACKFREE, PRIVATE ANTI LIMIT, ALL DEVICE
+Digital|Zoom 100 Peserta 14 Day|5.000|sku19|Private Akun, Full Garansi, Include Email Akses
+Digital|DeepL Premium 1 Bulan|10.000|sku20|BACA SNK KOCAK
+Digital|RCTI+ Super App 1 Bulan|12.000|sku21|Private Akun, Garansi Backfree, Bisa Nonton Timnas
+Digital|Apple Music Indplan 1 Bulan|7.000|sku22|Full Garansi, Reg Indonesia, Support Android Only
+
+Herbal|Sari Kurma Jadied Propolis|30.000|sku23| 
+Herbal|SCARLET ALL PRODUK|70.000|sku24| 
+Herbal|Gamat Gold 60 Kapsul|50.000|sku25| 
+Herbal|Minyak Herba Sinergi|35.000|sku26| 
+Herbal|Extra Food HNI|70.000|sku27| 
+Herbal|Gurahfit 83 Kapsul|70.000|sku28| 
+Herbal|Mix Saga|30.000|sku29| 
+Herbal|Trigona UMS 100 Kapsul|40.000|sku30| 
+Herbal|Trigona UMS 200 Kapsul|70.000|sku31| 
+Herbal|Jahe Merah AMH Sasetan|12.000|sku32| 
+Herbal|Alshifa 500 Gram|95.000|sku33| 
+Herbal|Alshifa 125 Gram|35.000|sku34| 
+Herbal|Serbuk Zuriyat|40.000|sku35| 
+Herbal|Jahe Merah 76|25.000|sku36| 
+Herbal|Jahe Merah Kencono Sari|25.000|sku37| 
+Herbal|Kapsul Gabus El Bumin|50.000|sku38| 
+Herbal|Pro Albumin|30.000|sku39| 
+Herbal|Minyak Kutus Kutus|150.000|sku40| 
+Herbal|Kopi Sevel 7 Elemen|120.000|sku41| 
+Herbal|Bedak Uler Kecil|25.000|sku42| 
+Herbal|Madu Anak Cerdas|25.000|sku43| 
+Herbal|Otem|25.000|sku44| 
+Herbal|Lo Han Kuo|30.000|sku45| 
+Herbal|Palm Dates Kurma|50.000|sku46| 
+Herbal|Semut Afrika Box Kecil 3 Bungkus 2 Kapsul|50.000|sku47| 
+Herbal|Montalin|100.000|sku48| 
+Herbal|Xian Ling|64.000|sku49| 
+Herbal|Gamat Gold|55.000|sku50| 
+Herbal|Semut Afrika Box Besar Isi 3 Box Kecil|160.000|sku51| 
+Herbal|Vitabumin 60ml|40.000|sku52| 
+Herbal|Otjima|30.000|sku53| 
+Herbal|Propolis 55ml|180.000|sku54| 
+Herbal|Kurma Palm Fruit|60.000|sku55| 
+Herbal|Herbalindo Kapsul Mengkudu|50.000|sku56| 
+Herbal|Habbatusauda Trigona Isi 200 Kapsul|70.000|sku57| 
+
+Game|Major 1|50.000|sku58|
+Game|Bintang 1|100.000|sku59|
+Game|Hero Bintang 5|1.400.000|sku60|
+Game|2 JT XP|40.000|sku61|
+Game|5 JT XP|60.000|sku62|
+Game|10 JT XP|110.000|sku63|
+Game|20 JT XP|220.000|sku64|
+Game|30 JT XP|330.000|sku65|
+Game|40 JT XP|440.000|sku66|
+Game|50 JT XP|550.000|sku67|
+Game|100 JT XP|1.100.000|sku68|
+Game|1 MILIAR XP CLAN|8.000.000|sku69|
+Game|10 JT XP CLAN|240.000|sku70|
+Game|20 JT XP CLAN|400.000|sku71|
+Game|30 JT XP CLAN|500.000|sku72|
+Game|40 JT XP CLAN|600.000|sku73|
+Game|50 JT XP CLAN|700.000|sku74|
+Game|100 JT XP CLAN|1.100.000|sku75|
+Game|25.000 GB KILL|70.000|sku76|
+Game|50.000 GB KILL|100.000|sku77|
+Game|100.000 GB KILL|200.000|sku78|
+Game|200.000 GB KILL|300.000|sku79|
+Game|300.000 GB KILL|400.000|sku80|
+Game|500.000 GB KILL|550.000|sku81|
+Game|1.000.000 GB KILL|1.000.000|sku82|
+
+Jasa|Paket upgrade ssd sata 120 gb|580000|sku83|
+Jasa|Paket upgrade ssd sata 240 gb|780000|sku84|
+Jasa|Paket upgrade ssd sata 480 gb|1150000|sku85|
+Jasa|Paket upgrade ssd sata 512 gb|1350000|sku86|
+Jasa|Paket upgrade ssd sata 1 TB|1600000|sku87|
+Jasa|Paket upgrade ssd sata 2 TB|2400000|sku88|
+Jasa|Paket upgrade ssd m2 128 GB|580000|sku89|
+Jasa|Paket upgrade ssd m2 256 gb|780000|sku90|
+Jasa|Paket upgrade ssd m2 512 gb|1350000|sku91|
+Jasa|Paket upgrade ssd m2 1 TB|1600000|sku92|
+Jasa|Paket upgrade ssd m2 2 TB|2400000|sku93|
+Jasa|Paket upgrade ssd m2 NVME 128 GB|630000|sku94|
+Jasa|Paket upgrade ssd m2 NVME 256 gb|850000|sku95|
+Jasa|Paket upgrade ssd m2 NVME 512 gb|1450000|sku96|
+Jasa|Paket upgrade ssd m2 NVME 1 TB|1800000|sku97|
+Jasa|Paket upgrade ssd m2 NVME 2 TB|2750000|sku98|
+Jasa|Caddy 50k|50000|sku99|
